@@ -1,1 +1,1 @@
-# ANN_With_MNIST_Data_Set
+Applying Neural Networks with the MNIST Dataset To Predict accurate Numbers 
